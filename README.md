@@ -16,3 +16,6 @@ A command-line interface (CLI) Tic-Tac-Toe game built with Python. This project 
 2. Clone this repository:
    ```bash
    git clone [https://github.com/Raushan-tryingtocode/Tic-Tac-Toe-PvP](https://github.com/Raushan-tryingtocode/Tic-Tac-Toe-PvP)
+3.Run:
+   ```bash- Python run tic-tac-toe.py
+
